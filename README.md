@@ -9,8 +9,8 @@
 ## Resources
 Материалы
 
-- [https://drive.google.com/drive/folders/1SGqvnDt34CqwWzhw0dQuFqKJ56ituTnW](https://drive.google.com/drive/folders/1SGqvnDt34CqwWzhw0dQuFqKJ56ituTnW
-- Материалы по Matlab будут пополняться [здесь](Matlab.md)
+- [https://drive.google.com/drive/folders/1SGqvnDt34CqwWzhw0dQuFqKJ56ituTnW](https://drive.google.com/drive/folders/1SGqvnDt34CqwWzhw0dQuFqKJ56ituTnW)
+- Материалы по Matlab будут пополняться [здесь](MATLAB.md)
 
 **Практика:**
 

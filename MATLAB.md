@@ -2,9 +2,7 @@
 
 ## Resources
 
-- Курс для ознакомления: https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted
-
-Образовательная лицензия
+- **Курс для ознакомления:** https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted
 
 [https://docs.exponenta.ru/R2021a/documentation-center.html](https://docs.exponenta.ru/R2021a/documentation-center.html)
 
